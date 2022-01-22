@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-base/static/css/main.7554965c.css",
+    "main.js": "/crypto-base/static/js/main.758ea3d7.js",
+    "static/media/defaultNews.jpeg": "/crypto-base/static/media/defaultNews.2397562845076e50315d.jpeg",
+    "index.html": "/crypto-base/index.html",
+    "main.7554965c.css.map": "/crypto-base/static/css/main.7554965c.css.map",
+    "main.758ea3d7.js.map": "/crypto-base/static/js/main.758ea3d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7554965c.css",
+    "static/js/main.758ea3d7.js"
+  ]
+}
